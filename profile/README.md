@@ -1,4 +1,4 @@
-## 🛠 Rasselbande Hub
+## Rasselbande Hub
 
 Zentrale Code-Ablage für unsere Projekte.
 
