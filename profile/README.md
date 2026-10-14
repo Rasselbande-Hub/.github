@@ -21,28 +21,21 @@ Hier findet ihr alle Projekte, an denen wir bereits arbeiten oder die konkret ge
 
 ---
 
+
 ## 💡 Projektideen & Inspiration
 
-Hier sammeln wir spannende Ideen, die wir möglicherweise in Zukunft umsetzen wollen. Die Videos dienen als Inspiration – wie wir die Projekte letztendlich umsetzen, entscheiden wir selbst.
+### 🎨 DIY-Projekt 1
+[![Projektvorschau](https://img.youtube.com/vi/r7WV-IAMnDo/hqdefault.jpg)](https://youtu.be/r7WV-IAMnDo)
 
-### 🤖 Robotik & KI
+### 🤖 Mini-WALL-E mit KI
+[![Mini-WALL-E](https://img.youtube.com/vi/5MZ6O6yT73M/hqdefault.jpg)](https://youtu.be/5MZ6O6yT73M)
 
-| Idee | Beschreibung | Mögliche Technologien | Inspiration |
-| :--- | :--- | :--- | :--- |
-| **Mini-WALL-E mit KI** | Kleiner selbstgebauter Roboter, der sprechen, seine Umgebung wahrnehmen und sich bewegen kann. | ESP32, Kamera, Mikrofon, Motoren, 3D-Druck | [▶ Video](https://youtu.be/5MZ6O6yT73M) |
-| **Roboterarm mit Positionsspeicherung** | Programmierbarer Roboterarm, dessen Bewegungspositionen gespeichert und automatisch wiedergegeben werden können. | Arduino, Servomotoren, C++, 3D-Druck | [▶ Video](https://youtu.be/ZEir102PxJ8) |
+### 🦾 Roboterarm
+[![Roboterarm](https://img.youtube.com/vi/ZEir102PxJ8/hqdefault.jpg)](https://youtu.be/ZEir102PxJ8)
 
-### 🔌 Elektronik & Smart Devices
-
-| Idee | Beschreibung | Mögliche Technologien | Inspiration |
-| :--- | :--- | :--- | :--- |
-| **Stella AI Sprachassistent** | Eigener Sprachassistent als kompaktes DIY-Gerät mit Spracheingabe und Sprachausgabe. | Mikrocontroller, Mikrofon, Lautsprecher, KI-Anbindung | [▶ Video](https://youtu.be/MMQMG_purmE?t=385) |
-
-### 🎨 Kreative DIY-Projekte
-
-| Idee | Beschreibung | Mögliche Technologien | Inspiration |
-| :--- | :--- | :--- | :--- |
-| **Weitere Video-Inspiration** | Projektbeschreibung noch ergänzen. | Noch offen | [▶ Video](https://youtu.be/r7WV-IAMnDo) |
+### 🔌 Stella AI Sprachassistent
+[![Sprachassistent](https://img.youtube.com/vi/MMQMG_purmE/hqdefault.jpg)](https://youtu.be/MMQMG_purmE?t=385)
+  
 
 ### Neue Projektidee hinzufügen
 
