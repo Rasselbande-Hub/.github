@@ -24,28 +24,55 @@ Hier findet ihr alle Projekte, an denen wir bereits arbeiten oder die konkret ge
 
 ## 💡 Projektideen & Inspiration
 
-### 🎨 DIY-Projekt 1
-[![Projektvorschau](https://img.youtube.com/vi/r7WV-IAMnDo/hqdefault.jpg)](https://youtu.be/r7WV-IAMnDo)
+Hier sammeln wir spannende Ideen für zukünftige Projekte rund um Robotik, Elektronik, KI und kreative DIY-Technik.
 
-### 🤖 Mini-WALL-E mit KI
+### 🤖 Robotik & KI
+
+#### Mini-WALL-E mit KI
 [![Mini-WALL-E](https://img.youtube.com/vi/5MZ6O6yT73M/hqdefault.jpg)](https://youtu.be/5MZ6O6yT73M)
 
-### 🦾 Roboterarm
+Kleiner selbstgebauter Roboter, der sprechen, seine Umgebung wahrnehmen und sich bewegen kann.
+
+**Technologien:** ESP32, KI, Mikrofon, Motoren, 3D-Druck
+
+#### Roboterarm
 [![Roboterarm](https://img.youtube.com/vi/ZEir102PxJ8/hqdefault.jpg)](https://youtu.be/ZEir102PxJ8)
 
-### 🔌 Stella AI Sprachassistent
+Programmierbarer Roboterarm mit Positionsspeicherung und automatischer Bewegungswiedergabe.
+
+**Technologien:** Arduino, Servomotoren, C++, 3D-Druck
+
+---
+
+### 🔌 Elektronik & Smart Devices
+
+#### Stella AI Sprachassistent
 [![Sprachassistent](https://img.youtube.com/vi/MMQMG_purmE/hqdefault.jpg)](https://youtu.be/MMQMG_purmE?t=385)
-  
 
-### Neue Projektidee hinzufügen
+Eigener KI-Sprachassistent mit Spracheingabe und Sprachausgabe.
 
-Neue Ideen können direkt in der passenden Kategorie ergänzt werden.
+**Technologien:** Mikrocontroller, Mikrofon, Lautsprecher, KI-Anbindung
 
-Wenn aus einer Idee ein konkretes Projekt wird:
+---
 
-1. Ein neues Repository erstellen.
-2. Das Projekt in **Unsere Projekte** eintragen.
-3. Die Idee aus der Ideensammlung entfernen oder auf das neue Repository verlinken.
+### 🎨 Kreative DIY-Projekte
+
+#### DIY-Projekt 1
+[![DIY-Projekt](https://img.youtube.com/vi/r7WV-IAMnDo/hqdefault.jpg)](https://youtu.be/r7WV-IAMnDo)
+
+**Beschreibung:** Noch ergänzen.
+
+#### Neue Projektidee 5
+[![Projektidee 5](https://img.youtube.com/vi/V_mZsiZcy7s/hqdefault.jpg)](https://youtu.be/V_mZsiZcy7s)
+
+**Beschreibung:** Noch ergänzen.
+
+#### DIY-Plotter
+[![DIY-Plotter](https://img.youtube.com/vi/qyNWDzO6kKQ/hqdefault.jpg)](https://youtu.be/qyNWDzO6kKQ)
+
+Selbstgebaute Zeichenmaschine, die automatisch Bilder und geometrische Formen zeichnen kann.
+
+**Technologien:** Arduino/ESP32, Schrittmotoren, Motortreiber, 3D-Druck
 
 ---
 
